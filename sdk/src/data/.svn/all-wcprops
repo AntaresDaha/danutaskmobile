@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data
+END
+Types.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Types.js
+END
+NodeInterface.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/NodeInterface.js
+END
+Errors.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Errors.js
+END
+SortTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/SortTypes.js
+END
+TreeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/TreeStore.js
+END
+Validations.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Validations.js
+END
+Batch.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Batch.js
+END
+Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Field.js
+END
+JsonStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/JsonStore.js
+END
+DirectStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/DirectStore.js
+END
+StoreManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/StoreManager.js
+END
+Request.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Request.js
+END
+JsonP.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/JsonP.js
+END
+Error.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Error.js
+END
+ResultSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/ResultSet.js
+END
+ModelManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/ModelManager.js
+END
+ArrayStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/ArrayStore.js
+END
+Store.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Store.js
+END
+Connection.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Connection.js
+END
+Operation.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Operation.js
+END
+Model.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/Model.js
+END
+NodeStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/sdk/src/data/NodeStore.js
+END

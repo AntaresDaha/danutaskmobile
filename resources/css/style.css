@@ -1,0 +1,91 @@
+/*.x-toggle-on {
+    background-image: none;
+    background-color: yellow;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, yellow), color-stop(10%, yellow), color-stop(65%, yellow), color-stop(100%, yellow));
+    background-image: -webkit-linear-gradient(top, yellow, yellow 10%, yellow 65%, yellow);
+    background-image: linear-gradient(top, #6e9c00, yellow 10%, yellow 65%, yellow);
+}
+
+.yellowTextField input {
+    color: #f5f5f5;  // = color of the font
+    background-color: #FFAE1A; // = color of the textfield
+}
+
+.yellowToggleField {
+    background-color: #FFAE1A;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6e9c00), color-stop(10%, #80b500), color-stop(65%, #92cf00), color-stop(100%, #94d200));
+    background-image: -webkit-linear-gradient(top, #FFAE1A, #F59E00 30%, #CC8400 65%, #AD7000);
+    background-image: linear-gradient(top, #FFAE1A, #F59E00 30%, #CC8400 65%, #AD7000);
+}
+
+*/
+
+/* LoginScreen */
+.loginBackground .x-form-inner{
+    /*background: url('http://src.sencha.io/detect/http://88.198.158.108//hosted/loginview_background.jpg')  no-repeat;*/
+    background: url('http://88.198.158.108//hosted/loginview_background_tiles.jpg')  repeat;
+}
+
+.loginLabel{
+    color: #f5f5f5;  /* = color of the font*/
+    font-size: 30px;
+    font-weight: bold
+}
+
+.blueTextField input {
+    color: #f5f5f5;  /* = color of the font*/
+    background-color: #006BB6;
+}
+.blueTextField .x-clear-icon {
+    background-color: #006BB6; // = color around clearicon
+}
+
+.blueTextField.x-field {
+    background: transparent;
+    background-color: transparent;
+}
+
+.blueCheckBoxField{
+    background-color: transparent;
+    background-image: linear-gradient(top, transparent, transparent 30%, transparent 65%, transparent);
+}
+
+.blueCheckBoxField .x-component-outer{
+    width: 72px;
+    /* background-color: #FFFFFF; */
+    background-color: whitesmoke;
+    background-image: linear-gradient(top, #FFFFFF, #FFFFFF 30%, #FFFFFF 65%, #FFFFFF);
+
+}
+
+.blueCheckBoxField .x-form-label {
+    background-color: transparent;
+    background-image: linear-gradient(top, transparent, transparent 30%, transparent 65%, transparent);
+    color: white;
+    font-size: 18px;
+}
+
+.horizontaldataview .x-dataview-inner {
+    width: auto;
+    white-space: nowrap;
+}
+
+.horizontaldataview .x-dataview-item {
+    display: inline-block;
+}
+
+.pieChartOverlay {
+    z-index: 999 !important;
+    left: 3% !important;
+    top: 10% !important;
+    height: 70% !important;
+    width: 96% !important;
+}
+
+.pieChartOverlay .x-img {
+    z-index: 1000 !important;
+    left: 4% !important;
+    top: 11% !important;
+    height: 100px;
+    width: 100px;
+}
