@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/.idea
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/.idea
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -26,50 +26,16 @@ AntaresDaha
 
 44980f02-7e1c-41f9-abc6-1e73964e6135
 
-DanuTaskMobile.iml
-file
-
-
-
-
-2012-09-18T13:07:22.760234Z
-07b1dcc90395701344d49084b5166275
-2012-09-20T17:07:45.290310Z
-594
-AntaresDaha
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-292
-
 modules.xml
 file
 
 
 
 
-2012-09-18T17:42:45.557284Z
-53419ff920ead9bdcfdde8e4705678ca
-2012-09-20T17:07:45.290310Z
-594
+2012-10-09T17:02:57.744202Z
+e2899e5c4ace2d72058a9dec1629f610
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -92,7 +58,7 @@ AntaresDaha
 
 
 
-291
+297
 
 encodings.xml
 file
@@ -100,10 +66,10 @@ file
 
 
 
-2012-09-18T13:07:22.865240Z
+2012-10-09T17:02:57.788205Z
 bbfed8a9adc106b97e3149400e5f242b
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -128,16 +94,16 @@ AntaresDaha
 
 171
 
-misc.xml
+danutaskmobileS23.iml
 file
 
 
 
 
-2012-09-18T13:23:38.878065Z
-c2a5bba2d6c12ffb47091bca27a4778e
-2012-09-20T17:07:45.290310Z
-594
+2012-10-09T17:02:57.597194Z
+07b1dcc90395701344d49084b5166275
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -160,7 +126,41 @@ AntaresDaha
 
 
 
-266
+292
+
+misc.xml
+file
+
+
+
+
+2012-10-09T17:18:13.509581Z
+ba9d58120a2720975ac76e8e18c838d5
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+338
 
 vcs.xml
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2012-09-18T13:07:22.810237Z
+2012-10-09T17:02:57.712201Z
 1d4d6f24f3ff67f10d99846d61c76662
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -201,14 +201,14 @@ dir
 
 workspace.xml
 file
-597
+622
 
 
 
-2012-09-25T17:40:35.068160Z
-4cc5d205c562cb4b045be69518609ab1
-2012-09-25T17:59:24.981279Z
-597
+2012-10-13T01:07:57.386494Z
+5d5a93a350665235cd586fd8f24f1f37
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -231,7 +231,7 @@ AntaresDaha
 
 
 
-31217
+24543
 
 .name
 file
@@ -239,10 +239,10 @@ file
 
 
 
-2012-09-18T13:07:22.685230Z
-124541f44b5a7f717148f7bcbafa37c6
-2012-09-20T17:07:45.290310Z
-594
+2012-10-09T17:02:57.571193Z
+8f35aac62371ced2ea5fb6b2315973b4
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -265,5 +265,5 @@ AntaresDaha
 
 
 
-14
+17
 

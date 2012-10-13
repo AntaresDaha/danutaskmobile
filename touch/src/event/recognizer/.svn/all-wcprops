@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer
+END
+SingleTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/SingleTouch.js
+END
+Tap.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Tap.js
+END
+Recognizer.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Recognizer.js
+END
+Swipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Swipe.js
+END
+LongPress.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/LongPress.js
+END
+Drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Drag.js
+END
+MultiTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/MultiTouch.js
+END
+Rotate.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Rotate.js
+END
+DoubleTap.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/DoubleTap.js
+END
+HorizontalSwipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/HorizontalSwipe.js
+END
+Pinch.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Pinch.js
+END
+VerticalSwipe.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/VerticalSwipe.js
+END
+Touch.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/event/recognizer/Touch.js
+END

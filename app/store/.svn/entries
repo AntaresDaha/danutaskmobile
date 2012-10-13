@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/app/store
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/app/store
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -26,16 +26,84 @@ AntaresDaha
 
 44980f02-7e1c-41f9-abc6-1e73964e6135
 
+ActiveProjects.js
+file
+
+
+
+
+2012-09-25T20:52:38.392450Z
+8fe62b88c313d87024246777f7d42b68
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+635
+
+DTPie.js
+file
+615
+
+
+
+2012-10-11T19:20:02.534681Z
+5b0868460534f65b7da27b3c9248dadd
+2012-10-11T20:30:24.482164Z
+615
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1302
+
 AppConfig.js
 file
-596
+
 
 
 
 2012-09-20T19:16:27.636470Z
 a4900d3236fac7bb52de61e2712dae3e
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -60,16 +128,84 @@ AntaresDaha
 
 289
 
+PerformanceBar.js
+file
+615
+
+
+
+2012-10-11T17:58:27.561704Z
+1d1778d8867601d8f7e76a3dbaadf0aa
+2012-10-11T20:30:24.482164Z
+615
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2058
+
+FTPie.js
+file
+615
+
+
+
+2012-10-11T19:17:42.169652Z
+14970adce9102ce38e867eb6614b3f9d
+2012-10-11T20:30:24.482164Z
+615
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1430
+
 Login.js
 file
-596
+
 
 
 
 2012-09-20T18:24:42.486866Z
 18e7fd740d9ca9ca3d346b558ca41e5a
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -94,16 +230,16 @@ AntaresDaha
 
 718
 
-Staff.js
+Members.js
 file
-597
 
 
 
-2012-09-24T12:46:40.350236Z
-ad982f4405afa32b9ebe84ea7f2f62b9
-2012-09-25T17:59:24.981279Z
-597
+
+2012-10-02T17:19:41.018370Z
+072b675bc80aa5a5c6808396bdffda09
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -126,5 +262,178 @@ AntaresDaha
 
 
 
-3126
+3193
+
+ProjectDetails.js
+file
+
+
+
+
+2012-10-02T16:01:36.368423Z
+918c0e673224d44fdbfa66f3127e8534
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+399
+
+data
+dir
+
+Incomplete.js
+file
+
+
+
+
+2012-10-05T14:21:01.826499Z
+c9e21c27099156edcac35018fe74a139
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2147
+
+DeveloperTasksOverview.js
+file
+
+
+
+
+2012-10-02T17:27:01.737578Z
+d7b629623cdbc431d580464d8b2b86c0
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4740
+
+BTPie.js
+file
+615
+
+
+
+2012-10-11T19:20:21.627773Z
+f3f3a270d2b3c56e4bb0d43ae02ff43d
+2012-10-11T20:30:24.482164Z
+615
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1302
+
+Staff.js
+file
+
+
+
+
+2012-10-02T17:21:34.222845Z
+fec2d09f1431a364ea7b0176f82aa997
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3184
 

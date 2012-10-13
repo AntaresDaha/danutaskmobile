@@ -1,16 +1,17 @@
 Ext.define('CDS.view.ManagerOverview', {
     extend: 'Ext.form.Panel',
     xtype: 'manageroverview',
-    requires: ['CDS.store.Staff','CDS.view.subview.StaffView','CDS.view.subview.PieChartOverlay'],
+    requires: ['Ext.Img','CDS.store.Staff','CDS.view.subview.StaffView'], // 'CDS.view.subview.StatisticsCarousel' ?
 
     config: {
+        cls: 'clsManagerOverview',
         scrollable: false,
         title: 'Home',
         items: [
             {
                 xtype: 'container',
                 left: '10%',
-                top: '0%',
+                top: '1%',
                 width: 327,
                 layout: {
                     type: 'hbox'
@@ -18,7 +19,7 @@ Ext.define('CDS.view.ManagerOverview', {
                 items: [
                     {
                         xtype: 'label',
-                        html: 'Hallo Mr. X, <br> gestern wurden Y Aufgaben erledigt.',
+                        html: 'Hello Mr. X, <br> yesterday Y tasks have been finished.',
                         styleHtmlContent: true,
                         width: '50%'
                     },
@@ -31,40 +32,43 @@ Ext.define('CDS.view.ManagerOverview', {
                 ]
             },
             {
-                xtype: 'container',
-                bottom: '61%',
-                top: '30%',
-                width: '100%',
-                layout: {
-                    type: 'hbox'
-                },
-                items: [
-                    {
-                        xtype: 'button',
-                        ui: 'round',
-                        width: '42%',
-                        icon: 'resources/icons/BizButtonIcon.png',
-                        text: 'Biz',
-                        itemId: 'manageroverview_bizButton'
-                    },
-                    {
-                        xtype: 'spacer'
-                    },
-                    {
-                        xtype: 'button',
-                        ui: 'round',
-                        width: '42%',
-                        icon: 'resources/icons/TecButtonIcon.png',
-                        iconAlign: 'right',
-                        text: 'Tec',
-                        itemId: 'manageroverview_tecButton'
-                    }
-                ]
+                xtype: 'button',
+                ui: 'action-round',
+                left: '5%',
+                width: '90%',
+                top: '29%',
+                height: '9%',
+                icon: 'resources/icons/BizButtonIcon.png',
+                text: 'Biz',
+                itemId: 'manageroverview_bizButton'
             },
             {
-                xtype: 'container',
-                bottom: '25%',
+                xtype: 'button',
+                ui: 'action-round',
+                left: '5%',
+                width: '90%',
                 top: '42%',
+                height: '9%',
+                icon: 'resources/icons/TecButtonIcon.png',
+                //iconAlign: 'right',
+                text: 'Tec',
+                itemId: 'manageroverview_tecButton'
+            },
+            {
+                xtype: 'button',
+                ui: 'action-round',
+                left: '5%',
+                width: '90%',
+                top: '55%',
+                height: '9%',
+                icon: 'resources/icons/StatsButtonIcon.png',
+                text: 'Statistics',
+                itemId: 'manageroverview_statsButton'
+            },
+            /*{
+                xtype: 'container',
+                top: '42%',
+                height: '28%',
                 width: '100%',
                 items: [
                     {
@@ -72,13 +76,14 @@ Ext.define('CDS.view.ManagerOverview', {
                         centered: true,
                         height: '100%',
                         width: '50%',
-                        src: 'http://src.sencha.io/150/150/http://88.198.158.108//hosted//Pie1.jpg'
+                        src: 'http://src.sencha.io/150/150/http://88.198.158.108//hosted//PieDT.jpg'
                     }
                 ],
                 listeners  : {
                     element : 'element',
                     tap     : function() {
-                        var overlay = Ext.widget('piechartoverlay');
+                        this.fireEvent('tappedpiechart', this);
+                        /*var overlay = Ext.widget('piechartoverlay');
                         overlay.showBy(this);
                         overlay.setZIndex(999);
                         overlay.setLeft('3%');
@@ -95,10 +100,10 @@ Ext.define('CDS.view.ManagerOverview', {
                         console.log('divInnerPanel:', divInnerPanel);
                     }
                 }
-            },
+            }, */
             {
                 xtype: 'container',
-                bottom: '-35px',
+                bottom: '2px',
                 //top: '77%',
                 width: '100%',
                 items: [
@@ -106,7 +111,19 @@ Ext.define('CDS.view.ManagerOverview', {
                         xtype: 'staffview'
                     }
                 ]
+            }/**/
+        ],
+        listeners: {
+            delegate: 'container', // listen to xtype of 'textfield'
+            tappedpiechart: function() {
+                this.fireEvent('tappedpiechart', this);
             }
-        ]
+        }
+    },
+    listeners:{
+        /*painted: function(){
+            console.log('PAINTED');
+            //Ext.Viewport.setMasked(false);
+        }*/
     }
 });

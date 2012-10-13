@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/app/model
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/app/model
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -26,16 +26,16 @@ AntaresDaha
 
 44980f02-7e1c-41f9-abc6-1e73964e6135
 
-AppConfig.js
+ActiveProjects.js
 file
 
 
 
 
-2012-09-20T15:40:04.282865Z
-e46c7f1aed18e56312a23d65f1257aa1
-2012-09-20T17:07:45.290310Z
-594
+2012-09-25T14:31:25.368995Z
+7d84faf8ed1a3febbcc6ba4b755820e2
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -58,7 +58,41 @@ AntaresDaha
 
 
 
-412
+453
+
+AppConfig.js
+file
+
+
+
+
+2012-09-28T16:10:14.377166Z
+6b727ff37a0703029c94651e42828ceb
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+490
 
 Login.js
 file
@@ -66,10 +100,10 @@ file
 
 
 
-2012-09-20T18:07:56.401321Z
+2012-10-05T15:51:02.003372Z
 c1b748eca02259f08eb8cfb4d4c15601
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -94,16 +128,152 @@ AntaresDaha
 
 264
 
+Members.js
+file
+
+
+
+
+2012-09-25T13:10:49.371391Z
+d4baa78756d0634a86903cac97a75a9c
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+649
+
+ProjectDetails.js
+file
+
+
+
+
+2012-09-27T18:02:35.514677Z
+5c145f614034458fc8ce8db3ba115059
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+381
+
+Incomplete.js
+file
+
+
+
+
+2012-10-05T15:51:15.421139Z
+9fdaf82536ad0c7719a2145bde352a99
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+587
+
+DeveloperTasksOverview.js
+file
+
+
+
+
+2012-09-24T15:57:52.658414Z
+eb3937c4d1dc906ffb4ef0620096bc2c
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+543
+
 Staff.js
 file
-597
+
 
 
 
 2012-09-24T18:12:45.086274Z
 d635e0d2ef7b31f537e641bfc517c7a4
-2012-09-25T17:59:24.981279Z
-597
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 

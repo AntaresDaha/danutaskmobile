@@ -1,23 +1,77 @@
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/app/store
+V 58
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store
+END
+ActiveProjects.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/ActiveProjects.js
+END
+DTPie.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cdsrkl/!svn/ver/615/WebApps/danutask-mobile/app/store/DTPie.js
 END
 AppConfig.js
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/cdsrkl/!svn/ver/596/WebApps/danutaskmobile/app/store/AppConfig.js
+V 71
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/AppConfig.js
+END
+PerformanceBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/615/WebApps/danutask-mobile/app/store/PerformanceBar.js
+END
+FTPie.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cdsrkl/!svn/ver/615/WebApps/danutask-mobile/app/store/FTPie.js
 END
 Login.js
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/cdsrkl/!svn/ver/596/WebApps/danutaskmobile/app/store/Login.js
+V 67
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/Login.js
+END
+Members.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/Members.js
+END
+ProjectDetails.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/ProjectDetails.js
+END
+Incomplete.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/Incomplete.js
+END
+DeveloperTasksOverview.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/DeveloperTasksOverview.js
+END
+BTPie.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cdsrkl/!svn/ver/615/WebApps/danutask-mobile/app/store/BTPie.js
 END
 Staff.js
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/cdsrkl/!svn/ver/597/WebApps/danutaskmobile/app/store/Staff.js
+V 67
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/app/store/Staff.js
 END

@@ -2,7 +2,7 @@ Ext.define('CDS.view.MainNavigation', {
     extend: 'Ext.navigation.View',
     xtype: 'mainnavigation',
 
-    requires: ['CDS.view.LoginView'],
+    requires: ['CDS.view.LoginView','CDS.view.ManagerOverview'],
 
     config: {
         useTitleForBackButtonText: true,
@@ -15,7 +15,7 @@ Ext.define('CDS.view.MainNavigation', {
             items: [
                 {
                     xtype: 'button',
-                    itemId: 'addButton',
+                    itemId: 'mainnavigation_addButton',
                     iconCls: 'add',
                     iconMask: true,
                     ui: 'plain',

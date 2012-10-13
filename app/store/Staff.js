@@ -10,6 +10,9 @@ Ext.define('CDS.store.Staff', {
         },
         autoLoad: true,  //set auto load to true so that any local data will populated in memory
 
+        // sorters, etc.
+        sorters: 'progress',
+
         // predefined data
         data: [
             {"first_name": "Carol","last_name": "Bartz","photo": "http://assets.en.oreilly.com/1/eventprovider/1/_@user_60981.jpg"},

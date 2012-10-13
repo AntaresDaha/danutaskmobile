@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/app
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/app
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -27,6 +27,9 @@ AntaresDaha
 44980f02-7e1c-41f9-abc6-1e73964e6135
 
 model
+dir
+
+profile
 dir
 
 controller

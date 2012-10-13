@@ -1,6 +1,10 @@
 Ext.define('CDS.view.LoginView', {
     extend: 'Ext.form.Panel',
     xtype: 'loginview',
+    requires: [
+        'Ext.Label',
+        'Ext.field.Password'
+    ],
 
     config: {
         cls: 'loginBackground',
@@ -17,8 +21,15 @@ Ext.define('CDS.view.LoginView', {
                 top: '8%'
             },
             {
+                cls: 'loginLabelSmall',
+                xtype: 'label',
+                html: 'remember me',
+                left: '52%',
+                top: '70%'
+            },
+            {
                 xtype: 'textfield',
-                cls: 'blueTextField',
+                cls: 'loginTextField',
                 bottom: '55%',
                 left: '10%',
                 width: '82%',
@@ -30,7 +41,7 @@ Ext.define('CDS.view.LoginView', {
             },
             {
                 xtype: 'passwordfield',
-                cls: 'blueTextField',
+                cls: 'loginTextField',
                 bottom: '40%',
                 top: '47%',
                 left: '10%',
@@ -42,15 +53,11 @@ Ext.define('CDS.view.LoginView', {
             },
             {
                 xtype: 'checkboxfield',
-                cls: 'blueCheckBoxField',
-                bottom: '35%',
+                cls: 'loginCheckBoxField',
                 left: '30%',
-                right: '15%',
                 top: '67%',
-                label: 'remember me',
-                labelAlign: 'right',
-                labelWidth: '70%',
                 checked: true,
+                width: '50px',
                 name: 'loginview_remember'
                 //style: '  background-image: none;background-color: blue;background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, blue), color-stop(10%, blue), color-stop(65%, blue), color-stop(100%, blue));background-image: -webkit-linear-gradient(top, blue, blue 10%, blue 65%, blue);background-image: linear-gradient(top, blue, blue 10%, blue 65%, blue);'
             },

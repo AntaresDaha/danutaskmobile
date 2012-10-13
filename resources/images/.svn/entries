@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/resources/images
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/resources/images
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -34,8 +34,8 @@ file
 
 2012-09-18T17:29:52.298056Z
 deb9e9a77c033d98fca2e2ef5e462f4f
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -62,14 +62,14 @@ has-props
 
 loginview_background_tiles.jpg
 file
+622
 
 
 
-
-2012-09-20T16:05:28.760060Z
-686e97440abc216148c139d5e9a1a874
-2012-09-20T17:07:45.290310Z
-594
+2012-10-12T18:25:45.697240Z
+646463515d17aa21b80faa1ab17ee17c
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 has-props
 
@@ -92,5 +92,107 @@ has-props
 
 
 
-24711
+21401
+
+portraitbig.jpg
+file
+
+
+
+
+2012-10-02T18:10:48.635828Z
+d1e68787d43738553844832caf7caffc
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19708
+
+finishedtasks.jpg
+file
+
+
+
+
+2012-10-02T14:15:28.535204Z
+721738484c6ba2b80d0324399235efa7
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16220
+
+unknown.jpg
+file
+
+
+
+
+2012-09-21T15:30:27.350516Z
+0cd859a23534743f84192f87399184bc
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10096
 

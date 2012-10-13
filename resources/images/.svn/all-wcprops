@@ -1,17 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/resources/images
+V 65
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/resources/images
 END
 loginview_background.jpg
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/resources/images/loginview_background.jpg
+V 90
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/resources/images/loginview_background.jpg
 END
 loginview_background_tiles.jpg
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/cdsrkl/!svn/ver/594/WebApps/danutaskmobile/resources/images/loginview_background_tiles.jpg
+V 96
+/svn/cdsrkl/!svn/ver/622/WebApps/danutask-mobile/resources/images/loginview_background_tiles.jpg
+END
+portraitbig.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/resources/images/portraitbig.jpg
+END
+finishedtasks.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/resources/images/finishedtasks.jpg
+END
+unknown.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/resources/images/unknown.jpg
 END

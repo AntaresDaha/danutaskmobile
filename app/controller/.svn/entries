@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/app/controller
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/app/controller
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -28,14 +28,14 @@ AntaresDaha
 
 Main.js
 file
-597
+622
 
 
 
-2012-09-25T14:32:09.386512Z
-86b5623c22e997966f18a125ec52d2af
-2012-09-25T17:59:24.981279Z
-597
+2012-10-13T01:06:30.911547Z
+b8fe209fe3b66e17955ef4962c2f4126
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -58,5 +58,5 @@ AntaresDaha
 
 
 
-6949
+21223
 

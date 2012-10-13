@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/resources/loading
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/resources/loading
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -26,16 +26,88 @@ AntaresDaha
 
 44980f02-7e1c-41f9-abc6-1e73964e6135
 
+Default-Portrait@2x~ipad.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default@2x.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default~ipad.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
 Splash_IPad_Landscape.png
 file
-596
+615
 
 
 
 2012-09-20T17:29:58.429029Z
 afebebe1f5f0339f56a79258272c6a4d
-2012-09-21T15:28:40.457805Z
-596
+2012-10-11T20:30:24.482164Z
+615
 AntaresDaha
 has-props
 
@@ -60,16 +132,88 @@ has-props
 
 403083
 
+Default-Landscape@2x~ipad.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default-Portrait~ipad.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default-LandscapeLeft~ipad.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
 Homescreen.jpg
 file
-
+615
 
 
 
 2012-09-20T15:59:36.623919Z
 c3ce4ec2cb1a5723afcf4adb2d951568
-2012-09-20T17:07:45.290310Z
-594
+2012-10-11T20:30:24.482164Z
+615
 AntaresDaha
 has-props
 
@@ -94,9 +238,81 @@ has-props
 
 64369
 
-Homescreen~ipad.png
+Default-PortraitUpsideDown~ipad.png
 file
-596
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default-LandscapeRight~ipad.png
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+Default-Landscape~ipad.png
+file
+615
 
 
 
@@ -120,14 +336,14 @@ deleted
 
 Splash_IPad_Portrait.png
 file
-596
+615
 
 
 
 2012-09-20T17:31:23.651903Z
 eb8eb8654bbb604a91dc0f0a2da52aef
-2012-09-21T15:28:40.457805Z
-596
+2012-10-11T20:30:24.482164Z
+615
 AntaresDaha
 has-props
 

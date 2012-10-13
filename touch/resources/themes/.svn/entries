@@ -1,0 +1,77 @@
+10
+
+dir
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/touch/resources/themes
+http://subversion.assembla.com/svn/cdsrkl
+
+
+
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44980f02-7e1c-41f9-abc6-1e73964e6135
+
+images
+dir
+
+lib
+dir
+
+compass_init.rb
+file
+
+
+
+
+2012-10-09T16:53:35.066019Z
+266a54bb015bbf3b68928a4db3339f7b
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+443
+
+stylesheets
+dir
+
+vendor
+dir
+
+templates
+dir
+

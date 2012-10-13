@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/resources/sass
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/resources/sass
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2012-09-19T11:39:44.069352Z
-7a9bab07db555367955f5e4a0c535a06
-2012-09-20T17:07:45.290310Z
-594
+2012-10-09T17:39:50.859785Z
+ad0cf22356a7e49bce6f299cc2fa13a5
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -58,21 +58,21 @@ AntaresDaha
 
 
 
-424
+426
 
 .sass-cache
 dir
 
 app.scss
 file
-597
+622
 
 
 
-2012-09-25T13:18:06.338385Z
-09ebda6438bf97b6b47c78cb5d824eac
-2012-09-25T17:59:24.981279Z
-597
+2012-10-13T00:34:07.946416Z
+fc5023128c89d874888eed81fd66aca2
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -95,5 +95,39 @@ AntaresDaha
 
 
 
-1340
+10081
+
+compile.bat
+file
+622
+
+
+
+2012-10-12T17:53:30.611559Z
+06721696698d22403f2d9f8e83418745
+2012-10-13T01:09:45.866745Z
+622
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77
 

@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/app/view
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/app/view
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -28,14 +28,14 @@ AntaresDaha
 
 MainNavigation.js
 file
-596
 
 
 
-2012-09-21T13:58:41.998628Z
-18ee02633e72f24423b6a8bdf33ae279
-2012-09-21T15:28:40.457805Z
-596
+
+2012-10-09T16:45:39.561822Z
+00ee653610bf668a2908122f3f078ff0
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -58,18 +58,119 @@ AntaresDaha
 
 
 
-819
+861
+
+Main.js
+file
+615
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+TecTabPanels.js
+file
+
+
+
+
+2012-10-04T17:21:50.024055Z
+52db06c3cd1f69b2c4f733cb8e1c5c91
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+781
+
+biz
+dir
+
+subview
+dir
+
+BizTabPanels.js
+file
+
+
+
+
+2012-09-27T17:56:23.939424Z
+8b148051bc738021b957223ed7e52d58
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+694
+
+tec
+dir
 
 ManagerOverview.js
 file
-597
+622
 
 
 
-2012-09-24T15:51:08.446294Z
-cf1acb9b021e66df767590385cbf56a4
-2012-09-25T17:59:24.981279Z
-597
+2012-10-12T23:52:13.135577Z
+4cccb27bdaa698bc45731436cc638a71
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -92,18 +193,52 @@ AntaresDaha
 
 
 
-3921
+4483
+
+DeveloperTasksOverview.js
+file
+
+
+
+
+2012-09-24T12:29:51.155513Z
+bb2e0db9f2e840a623df221441805499
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+479
 
 LoginView.js
 file
-597
+622
 
 
 
-2012-09-24T16:10:37.179142Z
-389b87fbafb2f31145c5d877f265c165
-2012-09-25T17:59:24.981279Z
-597
+2012-10-12T20:56:22.208099Z
+6ba5b94c7f067e1ee5e40ebdbe0b85b0
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -126,5 +261,5 @@ AntaresDaha
 
 
 
-2488
+2625
 

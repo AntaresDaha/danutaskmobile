@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/resources/icons
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/resources/icons
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -28,14 +28,14 @@ AntaresDaha
 
 Icon~ipad@2x.png
 file
-596
+
 
 
 
 2012-09-20T17:11:23.504259Z
 25ba5368bc4d0f961b73b6a7fe0afd6c
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -62,14 +62,14 @@ has-props
 
 TecButtonIcon.png
 file
-596
+
 
 
 
 2012-09-21T14:07:45.930739Z
 af80520f457d03233153a992fde28232
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -96,14 +96,14 @@ has-props
 
 iTunesArtwork .png
 file
-596
+
 
 
 
 2012-09-20T17:13:52.076756Z
 1a70d039c54ae3a9ac88da99ec11a990
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -128,16 +128,50 @@ has-props
 
 80264
 
+iTunesArtwork.png
+file
+
+
+
+
+2012-10-09T12:56:40.430218Z
+5d66944c2ad112575908449c69c82fbe
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100493
+
 Icon@2x.png
 file
-596
+
 
 
 
 2012-09-20T17:13:16.395716Z
 e3a27bbe273a2feab79ebf7e13f3cb20
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -164,14 +198,14 @@ has-props
 
 Icon~ipad.png
 file
-596
+
 
 
 
 2012-09-20T17:11:43.074378Z
 38ab0722fa3b77689b88fba7cfa3e8e6
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -204,8 +238,8 @@ file
 
 2012-09-20T17:13:06.671159Z
 9a54354e4ce08544daa3114e16cbfec4
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -232,14 +266,14 @@ has-props
 
 icon-spot~ipad.png
 file
-596
+
 
 
 
 2012-09-20T17:12:11.726017Z
 14ae2dad8f8cb574702984db66ee8ff7
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -266,14 +300,14 @@ has-props
 
 Icon.png
 file
-596
+
 
 
 
 2012-09-20T17:14:01.028268Z
 1a70d039c54ae3a9ac88da99ec11a990
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 
@@ -300,14 +334,14 @@ has-props
 
 BizButtonIcon.png
 file
-596
+
 
 
 
 2012-09-21T14:07:44.057632Z
 65fa526bf2d6877796517d5ddf79975f
-2012-09-21T15:28:40.457805Z
-596
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 has-props
 

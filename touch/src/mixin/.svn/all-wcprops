@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin
+END
+Mixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Mixin.js
+END
+Observable.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Observable.js
+END
+Filterable.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Filterable.js
+END
+Templatable.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Templatable.js
+END
+Traversable.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Traversable.js
+END
+Sortable.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Sortable.js
+END
+Identifiable.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Identifiable.js
+END
+Bindable.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Bindable.js
+END
+Selectable.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/mixin/Selectable.js
+END

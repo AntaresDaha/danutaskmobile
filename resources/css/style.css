@@ -1,68 +1,36 @@
-/*.x-toggle-on {
-    background-image: none;
-    background-color: yellow;
-    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, yellow), color-stop(10%, yellow), color-stop(65%, yellow), color-stop(100%, yellow));
-    background-image: -webkit-linear-gradient(top, yellow, yellow 10%, yellow 65%, yellow);
-    background-image: linear-gradient(top, #6e9c00, yellow 10%, yellow 65%, yellow);
+/* Helper */
+.clsHiddenMask {
+    background: rgba(0, 0, 0, 0.0) center center no-repeat !important;
+    /*height: 0% !important;*/
 }
 
-.yellowTextField input {
-    color: #f5f5f5;  // = color of the font
-    background-color: #FFAE1A; // = color of the textfield
+.clsHiddenMask .x-mask-inner {
+    display: none !important;
 }
-
-.yellowToggleField {
-    background-color: #FFAE1A;
-    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6e9c00), color-stop(10%, #80b500), color-stop(65%, #92cf00), color-stop(100%, #94d200));
-    background-image: -webkit-linear-gradient(top, #FFAE1A, #F59E00 30%, #CC8400 65%, #AD7000);
-    background-image: linear-gradient(top, #FFAE1A, #F59E00 30%, #CC8400 65%, #AD7000);
-}
-
-*/
 
 /* LoginScreen */
 .loginBackground .x-form-inner{
     /*background: url('http://src.sencha.io/detect/http://88.198.158.108//hosted/loginview_background.jpg')  no-repeat;*/
-    background: url('http://88.198.158.108//hosted/loginview_background_tiles.jpg')  repeat;
+    background: url('../images/loginview_background_tiles.jpg')  repeat;
 }
 
 .loginLabel{
-    color: #f5f5f5;  /* = color of the font*/
+    color: #333;
+    text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0;
     font-size: 30px;
     font-weight: bold
 }
 
-.blueTextField input {
-    color: #f5f5f5;  /* = color of the font*/
-    background-color: #006BB6;
-}
-.blueTextField .x-clear-icon {
-    background-color: #006BB6; // = color around clearicon
-}
-
-.blueTextField.x-field {
-    background: transparent;
-    background-color: transparent;
+.loginLabelSmall {
+    font-size: .8em;
+    font-weight: bold;
+    color: #333;
+    text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0;
 }
 
-.blueCheckBoxField{
-    background-color: transparent;
-    background-image: linear-gradient(top, transparent, transparent 30%, transparent 65%, transparent);
-}
-
-.blueCheckBoxField .x-component-outer{
-    width: 72px;
-    /* background-color: #FFFFFF; */
-    background-color: whitesmoke;
-    background-image: linear-gradient(top, #FFFFFF, #FFFFFF 30%, #FFFFFF 65%, #FFFFFF);
-
-}
-
-.blueCheckBoxField .x-form-label {
-    background-color: transparent;
-    background-image: linear-gradient(top, transparent, transparent 30%, transparent 65%, transparent);
-    color: white;
-    font-size: 18px;
+.clsManagerOverview .x-button-icon{
+  height: 100% !important;
+  width: 18% !important;
 }
 
 .horizontaldataview .x-dataview-inner {
@@ -89,3 +57,135 @@
     height: 100px;
     width: 100px;
 }
+
+.x-select-overlay .x-list-item{
+    background: white;
+}
+
+.x-form-label{
+    background: white;
+}
+
+.extraToggleLabelToggle {
+     font-size: .8em;
+     font-weight: bold;
+     color: #333;
+     text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0;
+     height: 59px;
+ }
+
+.extraToggleLabelToggleContainer {
+    border-bottom: 1px solid #DDD;
+    height: 59px;
+}
+.extraToggleLabelToggleContainer .x-toggle-on{
+    width: 4.4em;
+    -webkit-border-radius: 1.1em;
+    border-radius: 1.1em;
+    overflow: hidden;
+    border: 1px solid #b7b7b7;
+    background-image: none;
+    background-color: #dddddd;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c4c4c4), color-stop(10%, #d0d0d0), color-stop(65%, #dddddd), color-stop(100%, #dedede));
+    background-image: -webkit-linear-gradient(top, #c4c4c4, #d0d0d0 10%, #dddddd 65%, #dedede);
+    background-image: linear-gradient(top, #c4c4c4, #d0d0d0 10%, #dddddd 65%, #dedede);
+    -webkit-box-flex: 0;
+}
+
+.x-chart-watermark{
+    display:none;
+}
+.x-legend-item {
+    padding: 0.8em 1em 0.8em 1.8em;
+    color: #333;
+    background: rgba(255, 255, 255, 0);
+    max-width: 20em;
+    min-width: 0;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: bold;
+    white-space: nowrap;
+    position: relative;
+    border-right: 1px solid rgba(204, 204, 204, 0.5);
+}
+
+.x-legend-container {
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #CCC;
+    background: white;
+}
+
+.x-legend-item-marker {
+    position: absolute;
+    width: 0.8em;
+    height: 0.8em;
+    -webkit-border-radius: 0.4em;
+    border-radius: 0.4em;
+    -webkit-box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.4) 0 1px 0 inset;
+    box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.4) 0 1px 0 inset;
+    left: .7em;
+    top: 1em;
+}
+
+.x-legend-inactive {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=30);
+    opacity: 0.3;
+}
+
+.DTBar {
+    position: absolute !important;
+    width: 90% !important;
+    height: 88% !important;
+    top: 7% !important;
+    left: 5% !important;
+}
+
+.BTBar {
+    position: absolute !important;
+    width: 90% !important;
+    height: 88% !important;
+    top: 7% !important;
+    left: 5% !important;
+}
+
+.FTBar {
+    position: absolute !important;
+    width: 90% !important;
+    height: 88% !important;
+    top: 7% !important;
+    left: 5% !important;
+}
+
+.DTBar .x-innerhtml{
+    position: absolute;
+    top: -9% !important;
+}
+
+.BTBar .x-innerhtml{
+    position: absolute;
+    top: -9% !important;
+}
+
+.FTBar .x-innerhtml{
+    position: absolute;
+    top: -9% !important;
+}
+
+.performanceBarCaption {
+    font-size: .9em;
+    text-align: center;
+    /*font-weight: bold;
+    //color: #333;
+    //text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0; */
+}
+
+
+
+.incompleteTextfield .x-input-el{
+/*height: 150px;*/
+}
+
+/*.extraToggleLabelToggle .x-component-outer{
+padding: 0.6em;
+}*/

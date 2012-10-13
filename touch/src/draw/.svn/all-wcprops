@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw
+END
+Matrix.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Matrix.js
+END
+Surface.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Surface.js
+END
+TextMeasurer.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/TextMeasurer.js
+END
+Animator.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Animator.js
+END
+Solver.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Solver.js
+END
+LimitedCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/LimitedCache.js
+END
+Group.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Group.js
+END
+Path.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Path.js
+END
+Draw.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Draw.js
+END
+Color.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Color.js
+END
+TimingFunctions.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/TimingFunctions.js
+END
+Component.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/Component.js
+END
+SegmentTree.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cdsrkl/!svn/ver/612/WebApps/danutask-mobile/touch/src/draw/SegmentTree.js
+END

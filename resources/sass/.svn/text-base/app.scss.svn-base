@@ -1,7 +1,9 @@
 // 1. Variable overrides, example:
-//$base-color: orange; // basic colortheming of app
-$base-gradient: 'bevel'; // values for gradients are ï¿½matteï¿½, ï¿½bevelï¿½, ï¿½glossyï¿½, ï¿½recessedï¿½, and ï¿½flatï¿½.
-
+$base-color: orange; // basic colortheming of app
+$base-gradient: 'bevel'; // values for gradients are ?matte?, ?bevel?, ?glossy?, ?recessed?, and ?flat?.
+$base-color-dark: #d78b00;
+$base-color-lightdark: #e69b12;
+$base-fontcolor-dark: #482f00;
 
 //$body-bg-color: #000;
 //$active-color: #B2DF1E;
@@ -16,7 +18,6 @@ $base-gradient: 'bevel'; // values for gradients are ï¿½matteï¿½, ï¿½bevelï¿½, ï
 
 //$toolbar-gradient: 'glossy';
 
-// IMPORTS
 @import 'sencha-touch/default/all';
 
 // You may remove any of the following modules that you
@@ -34,6 +35,7 @@ $base-gradient: 'bevel'; // values for gradients are ï¿½matteï¿½, ï¿½bevelï¿½, ï
 @include sencha-carousel;
 @include sencha-form;
 @include sencha-msgbox;
+@include sencha-loading-spinner;
 
 // Your custom code goes here...
 //.x-toolbar .x-toolbar-title {
@@ -57,3 +59,136 @@ $base-gradient: 'bevel'; // values for gradients are ï¿½matteï¿½, ï¿½bevelï¿½, ï
   }
 }
 
+.x-mask .x-mask-inner {
+  background: rgba(0, 0, 0, 0.45);
+  color: $base-color-dark;
+  text-align: center;
+  padding: .4em;
+  font-size: .85em;
+  font-weight: bold;
+  -webkit-border-radius: 0.5em;
+  border-radius: 0.5em;
+}
+.x-mask .x-mask-message {
+  color: $base-color-dark;
+  text-shadow: rgba(100, 100, 100, 0.8) 0 0.08em 0;
+}
+
+
+.x-list-normal .x-list-header-wrap .x-item-header, .x-list-normal .x-list-header {
+  background-image: none;
+  background-color: $base-color-lightdark;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, desaturate(lighten($base-color-lightdark, 30%), 15%)), color-stop(3%, desaturate(lighten($base-color-lightdark, 5%), 5%)), color-stop(100%, saturate(darken($base-color-lightdark, 15%), 15%)));
+  background-image: -webkit-linear-gradient(top, desaturate(lighten($base-color-lightdark, 25%), 15%),desaturate(lighten($base-color-lightdark, 5%), 5%) 3%,saturate(darken($base-color-lightdark, 15%), 15%));
+  background-image: linear-gradient(top, desaturate(lighten($base-color-lightdark, 25%), 15%),desaturate(lighten($base-color-lightdark, 5%), 5%) 3%,saturate(darken($base-color-lightdark, 15%), 15%));
+  color: #664200;
+  text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0;
+  border-top: 1px solid $base-color-lightdark;
+  border-bottom: 1px solid desaturate(lighten($base-color-lightdark, 10%), 10%);
+  font-weight: bold;
+  font-size: 0.8em;
+  padding: 0.2em 1.02em;
+  text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0;
+}
+
+.x-toolbar-light .x-button, .x-toolbar-light .x-button.x-button-back::after, .x-toolbar-light .x-button.x-button-forward::after, .x-toolbar .x-toolbar-light .x-button, .x-toolbar .x-toolbar-light .x-button.x-button-back::after, .x-toolbar .x-toolbar-light .x-button.x-button-forward::after, .x-toolbar-light .x-field-select .x-component-outer, .x-toolbar-light .x-field-select .x-component-outer.x-button-back::after, .x-toolbar-light .x-field-select .x-component-outer.x-button-forward::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-back::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-forward::after, .x-toolbar-light .x-field-select .x-component-outer::before, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-back::after, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-forward::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-back::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-forward::after {
+  background-image: none;
+  background-color: #B37300;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, orange), color-stop(30%, #DB8E00), color-stop(65%, #B37300), color-stop(100%, #946000));
+  background-image: -webkit-linear-gradient(top, orange, #DB8E00 30%, #B37300 65%, #946000);
+  background-image: linear-gradient(top, orange, #DB8E00 30%, #B37300 65%, #946000);
+  color: whitesmoke;
+}
+
+.x-toolbar-light .x-button.x-button-pressing, .x-toolbar-light .x-button.x-button-pressing::after, .x-toolbar-light .x-button.x-button-pressed, .x-toolbar-light .x-button.x-button-pressed::after, .x-toolbar-light .x-button.x-button-active, .x-toolbar-light .x-button.x-button-active::after, .x-toolbar .x-toolbar-light .x-button.x-button-pressing, .x-toolbar .x-toolbar-light .x-button.x-button-pressing::after, .x-toolbar .x-toolbar-light .x-button.x-button-pressed, .x-toolbar .x-toolbar-light .x-button.x-button-pressed::after, .x-toolbar .x-toolbar-light .x-button.x-button-active, .x-toolbar .x-toolbar-light .x-button.x-button-active::after, .x-toolbar-light .x-field-select .x-component-outer.x-button-pressing, .x-toolbar-light .x-field-select .x-component-outer.x-button-pressing::after, .x-toolbar-light .x-field-select .x-component-outer.x-button-pressed, .x-toolbar-light .x-field-select .x-component-outer.x-button-pressed::after, .x-toolbar-light .x-field-select .x-component-outer.x-button-active, .x-toolbar-light .x-field-select .x-component-outer.x-button-active::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-pressing, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-pressing::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-pressed, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-pressed::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-active, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer.x-button-active::after, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressing, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressing::after, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressed, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressed::after, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-active, .x-toolbar-light .x-field-select .x-component-outer::before.x-button-active::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressing, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressing::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressed, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-pressed::after, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-active, .x-toolbar .x-toolbar-light .x-field-select .x-component-outer::before.x-button-active::after {
+  background-image: none;
+  background-color: #A36A00;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #704900), color-stop(10%, #8A5900), color-stop(65%, #A36A00), color-stop(100%, #A66B00));
+  background-image: -webkit-linear-gradient(top, #704900, #8A5900 10%, #A36A00 65%, #A66B00);
+  background-image: linear-gradient(top, #704900, #8A5900 10%, #A36A00 65%, #A66B00);
+}
+
+.x-toolbar-light {
+  background-image: none;
+  background-color: $base-color-lightdark;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, desaturate(lighten($base-color-lightdark, 30%), 15%)), color-stop(3%, desaturate(lighten($base-color-lightdark, 5%), 5%)), color-stop(100%, saturate(darken($base-color-lightdark, 15%), 15%)));
+  background-image: -webkit-linear-gradient(top, desaturate(lighten($base-color-lightdark, 25%), 15%),desaturate(lighten($base-color-lightdark, 5%), 5%) 3%,saturate(darken($base-color-lightdark, 15%), 15%));
+  background-image: linear-gradient(top, desaturate(lighten($base-color-lightdark, 25%), 15%),desaturate(lighten($base-color-lightdark, 5%), 5%) 3%,saturate(darken($base-color-lightdark, 15%), 15%));
+  border-color: black;
+  border-top: black;
+  color: $base-fontcolor-dark;
+}
+.x-toolbar-light .x-title .x-innerhtml{
+  color: $base-fontcolor-dark !important;
+}
+
+/**
+ * Cusotm css for the Carousel example
+ */
+
+.x-carousel-indicator > * {
+  background-position: center center;
+}
+
+.x-carousel {
+  background-position: center center;
+  background-size: auto 100%;
+  background-color: white;
+
+}
+
+.x-carousel-indicator > * {
+  background-color: saturate(darken($base-color, 30%), 30%) !important;
+  opacity: 0.4;
+}
+
+.x-carousel-indicator > .x-carousel-indicator-active {
+  opacity: 1;
+}
+
+// LOGIN
+.loginTextField input {
+  color: #333;
+  text-shadow: rgba(255, 255, 255, 0.25) 0 0.08em 0;
+  background-color: whitesmoke;
+}
+.loginTextField .x-clear-icon {
+  background-color: whitesmoke; // = color around clearicon
+}
+
+.loginTextField.x-field {
+  background: transparent;
+  background-color: transparent;
+}
+
+.loginTextField .x-field-input{
+  border: 2px outset $base-color;
+}
+.loginTextField .x-input-el{
+  border-right: 2px outset $base-color;
+}
+
+.loginCheckBoxField{
+  background-color: transparent;
+  background-image: linear-gradient(top, transparent, transparent 30%, transparent 65%, transparent);
+  border: 2px outset $base-color;
+}
+
+.loginCheckBoxField .x-component-outer{
+  width: 72px;
+  /* background-color: #FFFFFF; */
+  background-color: whitesmoke;
+  background-image: linear-gradient(top, #FFFFFF, #FFFFFF 30%, #FFFFFF 65%, #FFFFFF);
+
+}
+
+.loginCheckBoxField .x-form-label {
+  background-color: transparent;
+  background-image: linear-gradient(top, transparent, transparent 30%, transparent 65%, transparent);
+  color: white;
+  font-size: 18px;
+}
+
+.loginCheckBoxField .x-input-el {
+  left: -10px;
+}

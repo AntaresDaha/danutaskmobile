@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/resources/css
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/resources/css
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -28,14 +28,14 @@ AntaresDaha
 
 app.css
 file
-597
+622
 
 
 
-2012-09-25T13:19:06.540828Z
-0c8da2b946785a68ccc08ba548229997
-2012-09-25T17:59:24.981279Z
-597
+2012-10-13T00:30:18.465291Z
+77c83382f466be3447adaa25f72e01b7
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -58,18 +58,18 @@ AntaresDaha
 
 
 
-399292
+450975
 
 style.css
 file
-597
+622
 
 
 
-2012-09-24T14:29:39.114641Z
-f72cb78edc11ecd7d7d6713a19a7e5f6
-2012-09-25T17:59:24.981279Z
-597
+2012-10-12T21:11:20.734491Z
+a39b3bc00d8888315b9e3140db5b4d58
+2012-10-13T01:09:45.866745Z
+622
 AntaresDaha
 
 
@@ -92,5 +92,5 @@ AntaresDaha
 
 
 
-2766
+5135
 

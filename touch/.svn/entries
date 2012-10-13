@@ -1,14 +1,14 @@
 10
 
 dir
-594
-http://subversion.assembla.com/svn/cdsrkl/WebApps/danutaskmobile/touch
+612
+http://subversion.assembla.com/svn/cdsrkl/WebApps/danutask-mobile/touch
 http://subversion.assembla.com/svn/cdsrkl
 
 
 
-2012-09-20T17:07:45.290310Z
-594
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -26,16 +26,19 @@ AntaresDaha
 
 44980f02-7e1c-41f9-abc6-1e73964e6135
 
-README.md
+microloader
+dir
+
+sencha-touch-debug.js
 file
 
 
 
 
-2012-08-28T14:50:24.000000Z
-3777be7f853e03aeab0fa0dd894f63d0
-2012-09-20T17:07:45.290310Z
-594
+2012-10-09T16:53:43.790518Z
+263c727ebced90467b8d5d7a54813e99
+2012-10-10T02:06:04.897281Z
+612
 AntaresDaha
 
 
@@ -58,5 +61,150 @@ AntaresDaha
 
 
 
-530
+509498
+
+sencha-touch-all.js
+file
+
+
+
+
+2012-10-09T16:53:53.716086Z
+c9e60dcf543168d4ed5fdb19cb9b8af2
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3394563
+
+cmd
+dir
+
+version.txt
+file
+
+
+
+
+2012-10-09T16:53:53.661083Z
+d966071afb2aa767e886f8f3496a1d55
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+sencha-touch-all-debug.js
+file
+
+
+
+
+2012-10-09T16:53:43.757516Z
+c9e60dcf543168d4ed5fdb19cb9b8af2
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3394563
+
+src
+dir
+
+resources
+dir
+
+sencha-touch.js
+file
+
+
+
+
+2012-10-09T16:53:53.704085Z
+263c727ebced90467b8d5d7a54813e99
+2012-10-10T02:06:04.897281Z
+612
+AntaresDaha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+509498
 
