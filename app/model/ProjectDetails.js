@@ -3,7 +3,8 @@ Ext.define('CDS.model.ProjectDetails', {
 
     config: {
         fields: [
-            { name: 'name',       type: 'string', defaultValue: ''}
+            { name: 'name',       type: 'string', defaultValue: ''},
+            { name: 'iconurl',    type: 'string', defaultValue: ''}
         ]
     },
 

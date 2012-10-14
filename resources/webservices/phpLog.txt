@@ -3640,3 +3640,377 @@ Log at: 13.10.2012 22:36:35:
 						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
 					}
 				
+Log at: 13.10.2012 23:37:00:
+	url: 192.168.178.22:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback14&_dc=1350164238764
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback14
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 13.10.2012 23:37:03:
+	url: 192.168.178.22:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350164240537
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:14:28:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166467630
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:16:12:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166572523
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:16:47:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166607853
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:17:12:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166632889
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:18:42:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166721676
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:20:29:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166829825
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:21:13:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166873306
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:21:47:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166907312
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:23:01:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350166981693
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:24:29:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167069243
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:25:01:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167101838
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:25:30:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167130624
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:26:00:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167160803
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:29:54:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167394516
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:31:13:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167473305
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:31:51:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167511465
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:32:42:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167562340
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:34:59:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167699708
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:37:26:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167846812
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:38:21:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350167901471
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:46:47:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350168407555
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:47:34:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350168454004
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:52:31:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350168751364
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 00:56:59:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350169019038
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:03:54:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350169434541
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:22:30:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350170550789
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:24:30:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350170670676
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:35:25:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350171325946
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:46:47:
+	url: localhost:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350172007426
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:47:36:
+	url: 192.168.178.22:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350172074619
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:54:31:
+	url: 192.168.178.22:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback1&_dc=1350172489787
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback1
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				
+Log at: 14.10.2012 01:56:44:
+	url: 192.168.178.22:8080/danutask_mobile/resources/webservices/signIn.php?email=dk%40lazias.de&password=1234&callback=Ext.data.JsonP.callback5&_dc=1350172622977
+	email: dk@lazias.de
+	password: 1234
+	callback: Ext.data.JsonP.callback5
+	data: 
+					{ 	
+						"successfull": true, 
+						"sessionid": "9ea318ffc0fba9e7302ad61dd1c6e8b4",
+					}
+				

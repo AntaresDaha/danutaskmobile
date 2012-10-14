@@ -20,19 +20,40 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controller/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="42" selection-start="6110" selection-end="6110" vertical-scroll-proportion="0.797005">
+            <state line="343" column="54" selection-start="13043" selection-end="13061" vertical-scroll-proportion="22.92">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncompleteOverview.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/tec/IncompleteOverview.js">
+      <file leaf-file-name="ProjectDetailsView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/biz/ProjectDetailsView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="55" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+            <state line="10" column="35" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1350171168562" expanded="true" signature="1786:1796" placeholder="..." />
+                <marker date="1350171168562" expanded="true" signature="1786:1797" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectTree.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/store/data/ProjectTree.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1339" column="66" selection-start="63642" selection-end="63642" vertical-scroll-proportion="41.31216">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectDetails.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/model/ProjectDetails.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="28" selection-start="194" selection-end="201" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,9 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/view/tec/DispatcherView.js" />
-        <option value="$PROJECT_DIR$/app/store/PerformanceBar.js" />
-        <option value="$PROJECT_DIR$/app/view/subview/ColorPatterns.js" />
         <option value="$PROJECT_DIR$/app/view/tec/PerformanceView.js" />
         <option value="$PROJECT_DIR$/app/store/FTPie.js" />
         <option value="$PROJECT_DIR$/app/view/subview/StatisticsCarousel.js" />
@@ -64,6 +82,9 @@
         <option value="$PROJECT_DIR$/resources/css/style.css" />
         <option value="$PROJECT_DIR$/app/view/tec/IncompleteOverview.js" />
         <option value="$PROJECT_DIR$/app/controller/Main.js" />
+        <option value="$PROJECT_DIR$/app/model/ProjectDetails.js" />
+        <option value="$PROJECT_DIR$/app/view/biz/ProjectDetailsView.js" />
+        <option value="$PROJECT_DIR$/app/store/data/ProjectTree.json" />
       </list>
     </option>
   </component>
@@ -243,6 +264,64 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danutaskmobileS23" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danutask_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danutaskmobileS23" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danutask_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danutaskmobileS23" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danutask_mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -290,7 +369,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -365,41 +444,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/store/FTPie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="32" selection-start="347" selection-end="347" vertical-scroll-proportion="0.33047944" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/BTPie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="346" selection-end="346" vertical-scroll-proportion="0.43664384" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/subview/StatisticsCarousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="244" column="41" selection-start="9107" selection-end="9107" vertical-scroll-proportion="6.6763697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/subview/PerformanceBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="118" selection-start="5040" selection-end="5040" vertical-scroll-proportion="0.32020548" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/LoginView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="29" selection-start="191" selection-end="206" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="49" selection-start="1359" selection-end="1359" vertical-scroll-proportion="1.1275511" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/biz/ProjectDetailsView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -447,16 +494,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="49" selection-start="1062" selection-end="1091" vertical-scroll-proportion="0.79761904">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/tec/IncompleteOverview.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="55" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+        <state line="21" column="55" selection-start="713" selection-end="713" vertical-scroll-proportion="-1.7720466">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/biz/DevTaskOverview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08485857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/ProjectDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controller/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="42" selection-start="6110" selection-end="6110" vertical-scroll-proportion="0.797005">
+        <state line="343" column="54" selection-start="13043" selection-end="13061" vertical-scroll-proportion="22.92">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/ProjectDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="28" selection-start="194" selection-end="201" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/biz/ProjectDetailsView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="35" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1350171168562" expanded="true" signature="1786:1796" placeholder="..." />
+            <marker date="1350171168562" expanded="true" signature="1786:1797" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/data/ProjectTree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1339" column="66" selection-start="63642" selection-end="63642" vertical-scroll-proportion="41.31216">
           <folding />
         </state>
       </provider>
