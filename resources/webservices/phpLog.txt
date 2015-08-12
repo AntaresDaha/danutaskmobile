@@ -1,3 +1,5 @@
+Test
+
 Log at: 09.10.2012 19:11:08:
 	url: localhost:8080/danutaskmobileS23/resources/webservices/signIn.php?email=&password=&callback=Ext.data.JsonP.callback1&_dc=1349802668535
 	email: 
